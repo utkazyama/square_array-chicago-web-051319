@@ -1,5 +1,5 @@
-def square_array(array)
+def square_array(array, numbers)
   array.each do
-  array.[]*array.[]
+  array.[numbers]*array.[numbers]
 end
 end
